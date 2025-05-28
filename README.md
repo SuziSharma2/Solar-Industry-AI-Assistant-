@@ -5,7 +5,7 @@ This AI-powered tool analyzes satellite imagery to assess rooftop solar installa
 Setup Instructions
 
 Clone the Repository
-git clone <repository-url>
+git clone <https://github.com/SuziSharma2/Solar-Industry-AI-Assistant->
 cd solar-analysis-tool
 
 
